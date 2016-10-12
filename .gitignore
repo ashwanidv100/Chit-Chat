@@ -10,4 +10,4 @@ build/
 captures/
 .navigation/
 *.log
-
+authenticator/fabric.properties
